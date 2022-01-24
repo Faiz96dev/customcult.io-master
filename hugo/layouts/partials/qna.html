@@ -1,0 +1,12 @@
+{{ if not .Params.disable_qna }}
+
+<div class="qna-header">
+        <h2>Q&A Chat <i class="zero-top">{{ partial "svg/magic.svg"}}</i></h2>
+    </div>
+
+<div class="questions">
+        <lazy-content selector="slack-mirror,permalink:{{ .RelPermalink }}"></lazy-content>
+</div>
+
+
+{{ end }}
