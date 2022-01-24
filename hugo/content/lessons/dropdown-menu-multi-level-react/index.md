@@ -2,7 +2,7 @@
 title: Multi-Level Dropdown Menu with React
 lastmod: 2020-04-16T19:59:08-07:00
 publishdate: 2020-04-16T19:59:08-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build an animated multi-level dropdown menu from scratch with React, inspired by Facebook's 2020 UI update
 tags: 

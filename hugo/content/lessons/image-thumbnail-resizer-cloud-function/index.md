@@ -2,7 +2,7 @@
 title: Image Thumbnail Resizer Cloud Function
 lastmod: 2018-08-09T15:06:22-07:00
 publishdate: 2018-08-09T15:06:22-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a high-performance image thumbnail generator using a Firebase Storage Cloud Function and Sharp.
 tags: 

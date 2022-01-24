@@ -2,7 +2,7 @@
 title: Video to GIF with WASM
 lastmod: 2020-11-15T10:14:24-07:00
 publishdate: 2020-11-15T10:14:24-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a web app the converts video to animated GIF with Web Assembly.
 tags: 

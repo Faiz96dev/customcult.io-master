@@ -2,7 +2,7 @@
 title: FCM Push Notifications for Flutter
 lastmod: 2019-06-11T06:37:28-07:00
 publishdate: 2019-06-11T06:37:28-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Send push notifications in Flutter using Firebase Cloud Messaging (FCM) to specific devices, topics, and user segments. 
 tags: 

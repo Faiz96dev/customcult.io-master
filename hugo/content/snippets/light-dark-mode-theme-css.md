@@ -2,7 +2,7 @@
 title: Theme your Web App with CSS Variables
 lastmod: 2020-02-29T15:05:40-07:00
 publishdate: 2020-02-29T15:05:40-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to dynamically theme a website with CSS. Methods for light/dark mode and multiple custom themes.
 tags: 

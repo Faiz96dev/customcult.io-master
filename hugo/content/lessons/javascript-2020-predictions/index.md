@@ -2,7 +2,7 @@
 title: Javascript 2020 Predictions
 lastmod: 2019-12-16T07:27:03-07:00
 publishdate: 2019-12-16T07:27:03-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: New features, disruptive trends, and awesome tools coming to a JavaScript near you in the year 2020. 
 tags: 

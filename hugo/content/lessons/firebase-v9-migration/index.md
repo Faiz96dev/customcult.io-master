@@ -2,7 +2,7 @@
 title: Firebase v9 Migration
 lastmod: 2021-09-02T12:10:52-07:00
 publishdate: 2021-09-02T12:10:52-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to migrate to the new Firebase V9 JavaScript SDK. A complete guide. 
 tags: 

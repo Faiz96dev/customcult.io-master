@@ -3,7 +3,7 @@ title: Firestore Security Rules Cookbook
 publishdate: 2019-01-02T09:35:09-07:00
 lastmod: 2020-12-01T09:35:09-07:00
 draft: false
-author: Jeff Delaney
+author: Custom Cult
 type: lessons
 description: Common Recipes for Firestore Security Rules
 tags:

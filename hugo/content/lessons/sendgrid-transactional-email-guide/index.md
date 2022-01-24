@@ -2,7 +2,7 @@
 title: SendGrid Transactional Email Guide
 lastmod: 2019-07-05T10:26:00-07:00
 publishdate: 2019-07-05T10:26:00-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Send emails from your app using SendGrid's transactional email API with Node and Cloud Functions
 tags: 

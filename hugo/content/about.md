@@ -13,7 +13,7 @@ Fireship.io exists to make developers happier and more productive.
 We produce content about complex technical subjects for developers and entrepreneurs building software products. 
 
 - [Full Courses](/courses/)
-- [Video Lessons](/lessons/)
+- [Video lessons](/lessons/)
 - [Quick Snippets](/snippets/)
 
 ## Services we Provide
@@ -30,7 +30,7 @@ We provide support through various services in addition to content production.
 
 ### Who Are You?
 
-[Jeff Delaney](/contributors/jeff-delaney)
+[Custom Cult](/contributors/jeff-delaney)
 
 ### How did you build this Web App?
 

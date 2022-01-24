@@ -2,7 +2,7 @@
 title: Vue Composition API with Firestore
 lastmod: 2020-03-19T14:19:51-07:00
 publishdate: 2020-03-19T14:19:51-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: true
 description: Patterns for working with users and realtime Firestore data with the Vue.js 3 Composition API
 tags: 

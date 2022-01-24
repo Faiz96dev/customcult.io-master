@@ -2,7 +2,7 @@
 title: Animated CSS Cards Tutorial
 lastmod: 2020-09-10T07:33:19-07:00
 publishdate: 2020-09-10T07:33:19-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build an animated stacked CSS card list from scratch
 tags: 
@@ -52,7 +52,7 @@ Start by adding the following HTML markup.
 
           <div class="author-name">
             <div class="author-name-prefix">Author</div>
-            Jeff Delaney
+            Custom Cult
           </div>
         </div>
         

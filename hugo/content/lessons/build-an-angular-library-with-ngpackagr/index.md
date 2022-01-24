@@ -2,7 +2,7 @@
 title: Build an Angular Library With NgPackagr
 lastmod: 2018-05-02T13:55:36-07:00
 publishdate: 2018-05-02T13:55:36-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build your own Angular library and publish it to NPM
 tags: 
@@ -172,7 +172,7 @@ The special section is `ngPackage`, which is used by NgPackagr to locate the pub
 {
     "name": "super-toasty",
     "version": "0.0.1",
-    "author": "Jeff Delaney <hello@angularfirebase.com>",
+    "author": "Custom Cult <hello@angularfirebase.com>",
     "license": "MIT",
     "peerDependencies": {
       "@angular/core": ">=5.0.0",

@@ -2,7 +2,7 @@
 title: Facebook-Inspired Reactions From Scratch
 lastmod: 2017-07-05T16:00:54-07:00
 publishdate: 2017-07-05T16:00:54-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a Facebook-inspired reaction component to allow users to like or react to your content.
 tags: 

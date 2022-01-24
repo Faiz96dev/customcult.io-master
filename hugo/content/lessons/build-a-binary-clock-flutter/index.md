@@ -2,7 +2,7 @@
 title: Build a Binary Clock with Flutter
 lastmod: 2019-11-21T12:40:31-07:00
 publishdate: 2019-11-21T12:40:31-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: "Learn how to build a binary clock with Flutter for the #FlutterClock competition"
 tags: 

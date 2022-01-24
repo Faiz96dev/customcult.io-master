@@ -2,7 +2,7 @@
 title: Firestore Data Modeling and Queries
 lastmod: 2019-02-06T20:32:21-07:00
 publishdate: 2019-02-06T20:32:21-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: true
 description: Learn how to handle complex relationships and queries with Firebase Firestore
 tags: 

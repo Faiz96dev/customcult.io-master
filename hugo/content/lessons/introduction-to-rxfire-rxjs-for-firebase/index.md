@@ -2,7 +2,7 @@
 title: "Introduction to Rxfire Rxjs for Firebase"
 lastmod: 2018-08-22T15:22:49-07:00
 publishdate: 2018-08-22T15:22:49-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Quick start for the official RxJS bindings for Firebase.
 tags: 

@@ -2,7 +2,7 @@
 title: Node.js Quickstart
 lastmod: 2020-05-20T04:58:32-07:00
 publishdate: 2020-05-20T04:58:32-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn the basics of Node.js in 7 easy steps
 tags: 

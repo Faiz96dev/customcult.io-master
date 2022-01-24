@@ -2,7 +2,7 @@
 title: Typeahead Autocomplete with Firestore
 lastmod: 2020-02-10T14:40:30-07:00
 publishdate: 2018-02-20T14:40:30-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a typeahead autocomplete search form with Firestore by implementing advanced data querying methods. 
 tags: 

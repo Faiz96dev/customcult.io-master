@@ -2,7 +2,7 @@
 title: Metered Stripe Subscription Billing
 lastmod: 2018-07-14T14:36:01-07:00
 publishdate: 2018-07-14T14:36:01-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Advanced metered subscription Stripe Billing with Firebase
 tags: 

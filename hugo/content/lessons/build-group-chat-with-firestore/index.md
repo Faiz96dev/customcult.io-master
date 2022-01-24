@@ -2,7 +2,7 @@
 title: Group Chat with Firestore
 lastmod: 2018-10-14T18:11:02-07:00
 publishdate: 2018-10-14T18:11:02-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Design a Firestore group chat feature and build it from scratch with Angular.
 tags: 

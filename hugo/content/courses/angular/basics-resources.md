@@ -17,9 +17,9 @@ video_length: 1:51
 - [Angular Docs](https://angular.io/)
 - [AngularFire Docs](https://github.com/angular/angularfire2)
 
-## Highly Recommended Supplementary Videos
+## Highly Recommended Supplementary lessons
 
-While not required, I highly recommend watching the following YouTube videos to get familiar with RxJS and TypeScript. 
+While not required, I highly recommend watching the following YouTube lessons to get familiar with RxJS and TypeScript. 
 
 - [TypeScript - The Basics](https://youtu.be/ahCwqrYpIuM)
 - [RxJS Top Ten Concepts](https://youtu.be/ewcoEYS85Co)

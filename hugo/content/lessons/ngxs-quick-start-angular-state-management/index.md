@@ -2,7 +2,7 @@
 title: NGXS Quick Start
 lastmod: 2018-04-06T13:32:39-07:00
 publishdate: 2018-04-06T13:32:39-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to use NGXS for state management in Angular 
 tags: 

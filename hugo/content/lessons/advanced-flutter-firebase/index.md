@@ -2,7 +2,7 @@
 title: Flutter Provider with Firebase
 lastmod: 2019-05-11T13:59:08-07:00
 publishdate: 2019-05-11T13:59:08-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Advanced state management techniques when working with Firebase Auth & Firestore in Flutter applications. 
 tags: 

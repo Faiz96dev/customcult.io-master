@@ -2,7 +2,7 @@
 title: Build Realtime Maps with Mapbox GL
 lastmod: 2017-07-28T04:59:58-07:00
 publishdate: 2017-07-28T04:59:58-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build realtime map features with Angular, Firebase, and Mapbox
 tags: 

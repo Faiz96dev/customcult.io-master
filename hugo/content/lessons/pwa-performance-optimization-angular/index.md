@@ -2,7 +2,7 @@
 title: PWA Performance Optimization Tips
 lastmod: 2017-11-25T12:27:11-07:00
 publishdate: 2017-11-25T12:27:11-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Performance analysis and optimization tips for Progressive Web Apps
 tags: 

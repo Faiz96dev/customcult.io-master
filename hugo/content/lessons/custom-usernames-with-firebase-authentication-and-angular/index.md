@@ -2,7 +2,7 @@
 title: Custom Usernames With Firebase Authentication and Angular
 lastmod: 2017-06-24T15:27:32-07:00
 publishdate: 2017-06-24T15:27:32-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Give Firebase users custom usernames after and validate them asynchronously
 tags: 

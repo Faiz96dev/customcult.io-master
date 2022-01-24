@@ -2,7 +2,7 @@
 title: How to Build a Slack App
 lastmod: 2019-12-03T14:22:00-07:00
 publishdate: 2019-12-03T14:22:00-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: A comprehensive guide to serverless Slack Apps with Firebase Cloud Functions & Firestore
 tags: 

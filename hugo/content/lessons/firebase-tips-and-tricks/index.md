@@ -2,7 +2,7 @@
 title: Top 100 Firebase Tips and Tricks
 lastmod: 2019-10-09T20:31:24-07:00
 publishdate: 2019-10-09T20:31:24-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: A collection of tips, tricks, and common mistakes you should know about when working with Firebase. 
 tags: 

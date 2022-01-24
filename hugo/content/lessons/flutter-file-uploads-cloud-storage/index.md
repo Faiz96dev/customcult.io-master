@@ -2,7 +2,7 @@
 title: Flutter File Uploads
 lastmod: 2019-07-26T12:14:09-07:00
 publishdate: 2019-07-26T12:14:09-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Capture an image in Flutter and upload the file to a Firebase Cloud Storage bucket. 
 tags:

@@ -2,7 +2,7 @@
 title: Trusted Web Activity - PWA to Play Store Guide
 lastmod: 2019-02-20T10:27:58-07:00
 publishdate: 2019-02-20T10:27:58-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: A step-by-step guide for publishing your PWA as a native app in the Google Play Store via a trusted web activity (TWA). 
 tags: 

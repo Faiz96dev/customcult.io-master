@@ -2,7 +2,7 @@
 title: Five Useful Github Actions Examples
 lastmod: 2020-03-13T09:26:48-07:00
 publishdate: 2020-03-13T09:26:48-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Five ways to automate your development process with Github Actions
 tags: 

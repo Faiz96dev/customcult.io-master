@@ -2,7 +2,7 @@
 title: Basic Three.js Scrollbar Animation
 lastmod: 2021-05-14T08:51:57-07:00
 publishdate: 2021-05-14T08:51:57-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Animate a Three.js scene when the user changes the scroll position.
 tags: 

@@ -2,7 +2,7 @@
 title: "Http With Angular Quick Start"
 lastmod: 2017-10-11T10:56:12-07:00
 publishdate: 2017-10-11T10:56:12-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Use the Angular HTTP Client and to make requests to API endpoints
 tags: 

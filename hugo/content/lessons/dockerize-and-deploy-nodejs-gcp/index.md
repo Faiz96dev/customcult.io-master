@@ -2,7 +2,7 @@
 title: Docker Basics
 lastmod: 2020-08-16T11:42:47-07:00
 publishdate: 2020-08-16T11:42:47-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: true
 description: Learn 
 tags: 

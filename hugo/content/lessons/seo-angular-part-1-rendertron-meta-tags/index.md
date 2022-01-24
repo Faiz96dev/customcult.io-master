@@ -2,7 +2,7 @@
 title: Angular SEO with Rendertron
 lastmod: 2017-11-06T11:43:06-07:00
 publishdate: 2017-11-06T11:43:06-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Use Rendertron to make Angular SEO and linkbot friendly
 tags: 

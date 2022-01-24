@@ -2,7 +2,7 @@
 title: How to Build a Theme-Switcher
 lastmod: 2020-03-24T12:00:40-07:00
 publishdate: 2020-03-24T12:00:40-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a dynamic theme-switcher with CSS variables and JavaScript. 
 tags: 

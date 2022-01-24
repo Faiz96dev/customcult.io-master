@@ -2,7 +2,7 @@
 title: Top Ten RxJS Concepts
 lastmod: 2020-02-05T09:19:40-07:00
 publishdate: 2019-03-24T09:19:40-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Code this, not that! RxJS Edition. 
 tags: 

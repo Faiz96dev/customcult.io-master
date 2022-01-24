@@ -2,7 +2,7 @@
 title: Javascript Iteration and Loops
 lastmod: 2019-01-15T15:29:44-07:00
 publishdate: 2019-01-15T15:29:44-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn how Iteration and Loops Work in JavaScript
 tags: 

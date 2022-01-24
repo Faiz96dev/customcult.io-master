@@ -2,7 +2,7 @@
 title: Sharing Data between Angular Components - Four Methods
 lastmod: 2018-04-10T14:13:20-07:00
 publishdate: 2017-04-20T14:13:20-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description:  Four different methods for sharing data between Angular components.
 tags: 

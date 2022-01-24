@@ -2,7 +2,7 @@
 title: switchMap
 lastmod: 2018-12-29T08:28:56-07:00
 publishdate: 2018-12-29T08:28:56-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: RxJS switchMap operator practical examples
 tags:

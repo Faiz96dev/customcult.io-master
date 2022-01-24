@@ -2,7 +2,7 @@
 title: Flutter Firebase Chat Demo
 lastmod: 2021-09-30T12:19:06-07:00
 publishdate: 2021-09-30T12:19:06-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a chat app with Flutter, Firebase, and Firestore
 tags: 

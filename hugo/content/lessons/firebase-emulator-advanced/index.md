@@ -2,7 +2,7 @@
 title: Firebase Emulator Advanced Usage Guide
 lastmod: 2020-05-31T19:11:38-07:00
 publishdate: 2020-05-31T19:11:38-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Advanced techniques for generating mock data and testing with the Firebase emulator suite
 tags: 

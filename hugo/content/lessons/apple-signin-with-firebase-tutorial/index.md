@@ -2,7 +2,7 @@
 title: Sign In with Apple on Firebase
 lastmod: 2020-04-20T08:41:24-07:00
 publishdate: 2020-02-09T08:41:24-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Authenticate users into your Firebase app using Sign In with Apple on the web
 tags: 
@@ -23,7 +23,7 @@ youtube: UafqYgRoIC0
 #     - "rxjs": 6.3
 ---
 
-[Sign in with Apple](https://developer.apple.com/videos/play/wwdc2019/706/) was announced in 2019 and allows users to authenticate into your Firebase app with an Apple ID. Users must have two-factor authentication (2FA) enabled on their Apple account AND be signed into iCloud. 
+[Sign in with Apple](https://developer.apple.com/lessons/play/wwdc2019/706/) was announced in 2019 and allows users to authenticate into your Firebase app with an Apple ID. Users must have two-factor authentication (2FA) enabled on their Apple account AND be signed into iCloud. 
 
 
 

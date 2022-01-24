@@ -2,7 +2,7 @@
 title:  Cron Example Schedules
 lastmod: 2019-04-20T07:41:02-07:00
 publishdate: 2019-04-08T07:41:02-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Examples of cron expressions for configuring time schedules and cronjobs.  
 tags: 

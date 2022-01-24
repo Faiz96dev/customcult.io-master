@@ -2,7 +2,7 @@
 title: Advanced Firestore Usage Guide with Angular
 lastmod: 2017-10-16T06:48:43-07:00
 publishdate: 2018-08-10T06:48:43-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: A variety of tips and snippets that make AngularFire v5 and Firestore easier to use.
 tags: 

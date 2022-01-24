@@ -2,7 +2,7 @@
 title: Access the Index on Dart List.map()
 lastmod: 2019-11-24T07:55:05-07:00
 publishdate: 2019-11-24T07:55:05-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to access the index when using the map method on a Dart List.
 tags: 

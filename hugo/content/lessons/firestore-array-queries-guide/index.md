@@ -2,7 +2,7 @@
 title: Working with Firestore Arrays
 lastmod: 2020-02-12T14:46:47-07:00
 publishdate: 2019-02-12T14:46:47-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Tips and tricks for Firestore array queries and writes
 tags: 

@@ -2,7 +2,7 @@
 title: Firestore Tag Filtering With in Queries
 lastmod: 2019-11-13T07:51:38-07:00
 publishdate: 2019-11-13T07:51:38-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Query by tag or category labels in Firestore using IN and array-contains-any.  
 tags: 

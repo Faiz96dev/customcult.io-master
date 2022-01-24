@@ -2,7 +2,7 @@
 title: Flutter Firestore Animated SlideShow
 lastmod: 2019-03-20T10:18:59-07:00
 publishdate: 2019-03-20T10:18:59-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build an animated and filterable slideshow with FlutterFire - inspired by the Reflectly app. 
 tags: 

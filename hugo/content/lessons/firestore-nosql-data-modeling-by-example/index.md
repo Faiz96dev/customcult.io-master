@@ -2,7 +2,7 @@
 title: Firestore NoSQL Relational Data Modeling
 lastmod: 2018-02-05T15:20:23-07:00
 publishdate: 2018-02-05T15:20:23-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Get started in Firestore with practical real-world examples aimed at SQL Developers
 tags: 

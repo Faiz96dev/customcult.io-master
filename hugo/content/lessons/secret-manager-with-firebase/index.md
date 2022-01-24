@@ -2,7 +2,7 @@
 title: Google Secret Manager with Firebase
 lastmod: 2020-04-15T13:08:29-07:00
 publishdate: 2020-04-15T13:08:29-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Use Secret Manager to handle sensitive data in Firebase Cloud Functions
 tags: 

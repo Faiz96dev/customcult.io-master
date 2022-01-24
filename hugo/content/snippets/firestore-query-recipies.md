@@ -3,7 +3,7 @@ title: Firestore Security Rules Cookbook
 publishdate: 2019-01-02T09:35:09-07:00
 lastmod: 2019-01-02T09:35:09-07:00
 draft: true
-author: Jeff Delaney
+author: Custom Cult
 type: lessons
 description: Common Recipes and Techniques for Querying the Firestore Database
 tags:

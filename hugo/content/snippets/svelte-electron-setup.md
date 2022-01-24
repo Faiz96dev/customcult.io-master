@@ -2,7 +2,7 @@
 title: How to Use Svelte with Electron
 lastmod: 2020-02-29T06:59:27-07:00
 publishdate: 2020-02-29T06:59:27-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Setup Svelte with Electron Forge for Desktop App Development
 tags: 

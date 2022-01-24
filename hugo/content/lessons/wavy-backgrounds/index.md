@@ -2,7 +2,7 @@
 title: Wavy Backgrounds with CSS & SVG
 lastmod: 2021-08-19T12:06:33-07:00
 publishdate: 2021-08-19T12:06:33-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Create wavy backgrounds with CSS and SVG to spice up the design of your homepage
 tags: 

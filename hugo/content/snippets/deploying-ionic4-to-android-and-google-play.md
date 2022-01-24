@@ -2,7 +2,7 @@
 title: Deploy Ionic Android to Google Play
 lastmod: 2018-09-12T18:29:56-07:00
 publishdate: 2018-09-12T18:29:56-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build, sign, and deploy an Ionic Android app step-by-step
 tags: 

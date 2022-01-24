@@ -2,7 +2,7 @@
 title: Modern Web Scraping Guide
 lastmod: 2019-07-17T13:01:44-07:00
 publishdate: 2019-07-17T13:01:44-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a web scraper from scratch with Firebase Cloud Functions, Puppeteer, and NodeJS
 tags: 

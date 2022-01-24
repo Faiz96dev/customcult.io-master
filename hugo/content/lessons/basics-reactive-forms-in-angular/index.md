@@ -2,7 +2,7 @@
 title: Angular Reactive Forms Basics Guide
 lastmod: 2020-01-27T14:03:18-07:00
 publishdate: 2018-05-21T14:03:18-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Master the basics of Reactive Forms in Angular by building five different forms from scratch. 
 tags: 

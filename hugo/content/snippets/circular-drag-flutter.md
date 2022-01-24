@@ -2,7 +2,7 @@
 title: Handle Radial Pan Events in Flutter
 lastmod: 2019-12-02T09:19:58-07:00
 publishdate: 2019-12-02T09:19:58-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Calculate the rotation of a wheel in Flutter from user pan gestures.
 tags: 

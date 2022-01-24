@@ -2,7 +2,7 @@
 title: Angular Testing Guide
 lastmod: 2017-11-30T12:37:48-07:00
 publishdate: 2017-11-30T12:37:48-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Use test-driven development in Angular with Firebase
 tags: 

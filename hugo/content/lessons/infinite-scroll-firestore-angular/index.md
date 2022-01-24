@@ -2,7 +2,7 @@
 title: "Infinite Scroll Firestore Angular"
 lastmod: 2017-10-11T05:26:11-07:00
 publishdate: 2017-10-11T05:26:11-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Perform infinite scroll pagination, both downwards and upwards, with Firestore and Angular.
 tags: 

@@ -3,7 +3,7 @@ title: Install @angular/fire
 publishdate: 2018-12-11T09:35:09-07:00
 lastmod: 2018-12-11T09:35:09-07:00
 draft: false
-author: Jeff Delaney
+author: Custom Cult
 description: How to install @angular/fire, aka AngularFire2
 tags: 
     - angular

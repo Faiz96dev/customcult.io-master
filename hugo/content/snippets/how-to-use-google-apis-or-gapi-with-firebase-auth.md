@@ -3,7 +3,7 @@ title: How to Use Google APIs on the Web
 publishdate: 2018-09-22T23:12:09-07:00
 lastmod: 2018-09-22T14:25:09-07:00
 draft: false
-author: Jeff Delaney
+author: Custom Cult
 description: Access Google APIs from Firebase with the gapi client library. 
 tags:
   - firebase

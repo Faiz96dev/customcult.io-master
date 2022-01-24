@@ -2,7 +2,7 @@
 title: Build a Weather App with Angular
 lastmod: 2017-10-09T11:07:52-07:00
 publishdate: 2017-10-09T11:07:52-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a weather forecasting app with the Angular HTTP Client and Dark Sky API
 tags: 

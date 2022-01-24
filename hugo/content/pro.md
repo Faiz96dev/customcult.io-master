@@ -17,7 +17,7 @@ description: Upgrade to a Fireship.io PRO Membership
 <div>
 
 {{< testimonial name="David East" handle="@_davideast" img="david-east.jpg" >}}
-    The most concise and frequent YouTube channel for Firebase and general Web development videos. Subscribe if you haven't, <span class="hi">you won't be disappointed 🔥</span>
+    The most concise and frequent YouTube channel for Firebase and general Web development lessons. Subscribe if you haven't, <span class="hi">you won't be disappointed 🔥</span>
 {{< /testimonial >}}
 
 {{< testimonial name="Andrea Bizzotto" handle="@biz84" img="andre-biz.png" >}}
@@ -65,11 +65,11 @@ I know you probably have a list, but if you had to pick <span class="hi">just on
 {{< /testimonial >}}
 
 {{< testimonial name="Ugo" handle="@Nelsonweze" img="ugo.jpg" >}}
-If I am a developer today, it's because of @Jeffdelaney23's tutorial videos on his channel @fireship_dev. Found him in 2017 for Angular+Firebase. When I moved to #Flutter, he still was there. #ML and <span class="hi">I'm still watching his videos</span>. Thanks a lot Jeff!
+If I am a developer today, it's because of @Jeffdelaney23's tutorial lessons on his channel @fireship_dev. Found him in 2017 for Angular+Firebase. When I moved to #Flutter, he still was there. #ML and <span class="hi">I'm still watching his lessons</span>. Thanks a lot Jeff!
 {{< /testimonial >}}
 
 {{< testimonial name="Hardeep" handle="@iamhasime" img="hardeep.jpg" >}}
-Hey @Jeffdelaney23 thank you for your YouTube channel. You have done <span class="hi">some truly ingenious work</span>. Your videos are super helpful, detailed, concise and exactly what they should be teaching in paid courses.
+Hey @Jeffdelaney23 thank you for your YouTube channel. You have done <span class="hi">some truly ingenious work</span>. Your lessons are super helpful, detailed, concise and exactly what they should be teaching in paid courses.
 {{< /testimonial >}}
 
 
@@ -103,5 +103,5 @@ Hey @Jeffdelaney23 thank you for your YouTube channel. You have done <span class
 <h4 class="home-sub-heading text-center">Content so good that Google knighted us</h4>
 
 <div class="flex-center">
-<img alt="Jeff Delaney Google Developer Expert" src="/img/pages/gde.png">
+<img alt="Custom Cult Google Developer Expert" src="/img/pages/gde.png">
 </div>

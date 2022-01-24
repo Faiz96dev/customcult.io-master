@@ -2,7 +2,7 @@
 title: Fulltext Search with Redis and Next.js
 lastmod: 2022-01-10T19:49:05-07:00
 publishdate: 2022-01-10T19:49:05-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build an app capable of fulltext search using Redis and Next.js
 tags: 

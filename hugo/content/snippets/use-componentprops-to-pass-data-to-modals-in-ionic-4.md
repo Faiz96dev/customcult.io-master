@@ -3,7 +3,7 @@ title: How to Pass Data to Modals in Ionic
 publishdate: 2018-09-22T23:12:09-07:00
 lastmod: 2018-09-22T14:25:09-07:00
 draft: false
-author: Jeff Delaney
+author: Custom Cult
 description: Pass data to a modal in Ionic 4 with componentProps
 tags:
   - ionic

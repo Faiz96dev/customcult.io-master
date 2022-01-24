@@ -2,7 +2,7 @@
 title: Algolia Search with Svelte
 lastmod: 2019-08-25T13:07:30-07:00
 publishdate: 2019-08-25T13:07:30-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Algolia InstantSearch with Svelte 3
 tags: 

@@ -2,7 +2,7 @@
 title: Docker Basics Tutorial with Node.js
 lastmod: 2020-08-24T08:08:56-07:00
 publishdate: 2020-08-24T08:08:56-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn the fundamentals of Docker by containerizing a Node.js app
 tags: 

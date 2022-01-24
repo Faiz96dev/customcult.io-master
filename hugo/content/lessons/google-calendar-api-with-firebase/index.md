@@ -2,7 +2,7 @@
 title: Using the Google Calendar API
 lastmod: 2018-09-24T17:55:33-07:00
 publishdate: 2018-09-24T17:55:33-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Authorize users to retrieve and create Google Calendar events.   
 tags: 

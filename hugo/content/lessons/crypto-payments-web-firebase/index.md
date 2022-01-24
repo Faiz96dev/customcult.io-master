@@ -2,7 +2,7 @@
 title: Accept Crypto Payments with Coinbase Commerce
 lastmod: 2021-03-29T11:13:56-07:00
 publishdate: 2021-03-29T11:13:56-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to accept crypto payments, like Bitcoin and Ethereum, from your web app with Coinbase & Firebase Cloud Functions
 tags: 

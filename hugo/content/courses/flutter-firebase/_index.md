@@ -70,7 +70,7 @@ You can download the app we're building on Google Play or the App Store, so give
 
 ## How do I enroll?
 
-The first few videos are *free*, so just dive in 🤿. When you reach a paid module, you will be asked to pay for a single course or upgrade to PRO. 
+The first few lessons are *free*, so just dive in 🤿. When you reach a paid module, you will be asked to pay for a single course or upgrade to PRO. 
 
 
 

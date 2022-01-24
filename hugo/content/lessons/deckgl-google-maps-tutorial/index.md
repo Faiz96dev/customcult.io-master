@@ -2,7 +2,7 @@
 title: Deck.gl Google Maps Tutorial
 lastmod: 2019-10-29T07:53:34-07:00
 publishdate: 2019-10-29T07:53:34-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Create high-performance WebGL-powered data visualizations on Google Maps with deck.gl
 tags: 

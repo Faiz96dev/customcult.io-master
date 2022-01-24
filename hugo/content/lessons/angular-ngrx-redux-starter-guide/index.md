@@ -2,7 +2,7 @@
 title: Angular NgRx Starter Guide
 lastmod: 2017-08-27T06:25:17-07:00
 publishdate: 2017-08-27T06:25:17-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Get started building redux apps in Angular with NgRx
 tags: 

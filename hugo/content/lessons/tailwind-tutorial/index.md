@@ -2,7 +2,7 @@
 title: Tailwind Tips & Tricks
 lastmod: 2021-10-19T08:11:26-07:00
 publishdate: 2021-10-19T08:11:26-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Tips & Tricks for learning Tailwind CSS
 tags: 

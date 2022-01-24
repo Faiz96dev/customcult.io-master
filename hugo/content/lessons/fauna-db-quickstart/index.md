@@ -2,7 +2,7 @@
 title: FaunaDB Basics
 lastmod: 2020-10-11T07:14:44-07:00
 publishdate: 2020-10-11T07:14:44-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn the fundamentals of FaunaDB by modeling a twitter-like social graph. 
 tags: 

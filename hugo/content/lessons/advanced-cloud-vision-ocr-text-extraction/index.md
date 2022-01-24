@@ -2,7 +2,7 @@
 title: Extract Text from Images
 lastmod: 2018-02-02T15:08:13-07:00
 publishdate: 2018-02-02T15:08:13-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Advanced Google Cloud Vision API techniques with Node.js Firebase Cloud Functions
 tags: 

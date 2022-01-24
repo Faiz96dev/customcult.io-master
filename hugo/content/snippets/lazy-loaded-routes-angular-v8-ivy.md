@@ -2,7 +2,7 @@
 title: Lazy Loaded Routes Angular V8 with Ivy
 lastmod: 2019-08-27T08:01:59-07:00
 publishdate: 2019-03-13T08:01:59-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Setup Lazy Loaded Routes in Angular 8 with Ivy and Dynamic Imports
 tags: 

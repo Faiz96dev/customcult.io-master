@@ -2,7 +2,7 @@
 title: "Text Translator With Firebase Cloud Functions Onwrite and Angular"
 lastmod: 2020-02-10T15:17:21-07:00
 publishdate: 2017-06-25T15:17:21-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Translate text in the cloud with Firebase Cloud Functions
 tags: 

@@ -2,7 +2,7 @@
 title: SendGrid Angular
 lastmod: 2019-07-05T10:43:06-07:00
 publishdate: 2019-07-05T10:43:06-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Send transactional email with SendGrid from Angular
 type: lessons

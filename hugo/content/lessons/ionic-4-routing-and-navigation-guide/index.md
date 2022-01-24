@@ -2,7 +2,7 @@
 title: Ionic Routing and Navigation Guide
 lastmod: 2018-09-04T17:43:04-07:00
 publishdate: 2018-09-04T17:43:04-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn routing and navigation basics in Ionic v4 using the Angular Router.
 tags: 

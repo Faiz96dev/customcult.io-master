@@ -2,7 +2,7 @@
 title: Intersection Observer for Lazy-Loaded Images
 lastmod: 2019-01-25T05:48:23-07:00
 publishdate: 2019-01-25T05:48:23-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Use IntersectionObserver to lazy load images without listening to scroll events. 
 tags: 

@@ -2,7 +2,7 @@
 title: Test Firebase Cloud Functions with Jest
 lastmod: 2018-05-23T14:25:19-07:00
 publishdate: 2018-05-23T14:25:19-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Apply test-driven development to your Firebase Cloud Functions with Jest
 tags: 

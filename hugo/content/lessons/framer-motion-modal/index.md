@@ -2,7 +2,7 @@
 title: Animated Modals with Framer Motion
 lastmod: 2021-09-12T15:20:52-07:00
 publishdate: 2021-09-12T15:20:52-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build an animated modal with Framer Motion and React
 tags: 

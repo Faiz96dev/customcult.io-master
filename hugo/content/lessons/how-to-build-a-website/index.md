@@ -2,7 +2,7 @@
 title: How to Build a Website - In 2019
 lastmod: 2019-05-25T06:43:09-07:00
 publishdate: 2019-05-25T06:43:09-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: true
 description: Advanced techniques and ideas for developers building web applications 
 tags: 

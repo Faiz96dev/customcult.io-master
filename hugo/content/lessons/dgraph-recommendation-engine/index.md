@@ -2,7 +2,7 @@
 title: "Dgraph Recommendation Engine"
 lastmod: 2021-04-20T13:25:34-07:00
 publishdate: 2021-04-20T13:25:34-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: true
 description: Build a dating app recommendation engine with Dgraph
 tags: 

@@ -2,7 +2,7 @@
 title: Google Cloud Vision with Ionic - Not Hotdog App
 lastmod: 2018-01-24T15:00:49-07:00
 publishdate: 2018-01-24T15:00:49-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build the Not Hotdog app (Silicon Valley) using Ionic, Firebase, and Google Cloud Vision. 
 tags: 

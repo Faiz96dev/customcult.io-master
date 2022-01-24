@@ -2,7 +2,7 @@
 title: Use Coder to Run VS Code on Google Cloud
 lastmod: 2019-03-31T05:49:52-07:00
 publishdate: 2019-03-31T05:49:52-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Run VS Code on Google Cloud and configure it for remote frontend development. 
 tags: 

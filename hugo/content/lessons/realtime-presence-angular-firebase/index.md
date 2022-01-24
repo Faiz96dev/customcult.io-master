@@ -2,7 +2,7 @@
 title: Realtime Presence with Angular + Firebase
 lastmod: 2019-01-27T14:04:38-07:00
 publishdate: 2019-01-27T14:04:38-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a realtime user presence system with AngularFire to detect when a user is online, offline, or away. 
 tags: 

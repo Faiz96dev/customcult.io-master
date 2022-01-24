@@ -2,7 +2,7 @@
 title: Delete a Firestore Collection
 lastmod: 2020-02-11T14:29:28-07:00
 publishdate: 2020-02-11T14:29:28-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to delete a Firestore Collection or Subcollection 
 tags: 

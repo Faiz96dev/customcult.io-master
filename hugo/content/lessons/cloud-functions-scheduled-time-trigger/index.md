@@ -2,7 +2,7 @@
 title: Dynamic Scheduled Background Jobs in Firebase 
 lastmod: 2019-04-20T07:44:49-07:00
 publishdate: 2019-04-20T07:44:49-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Trigger Cloud Functions based on cron time intervals and create a task queue for dynamically scheduled jobs. 
 tags: 

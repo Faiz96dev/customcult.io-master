@@ -2,7 +2,7 @@
 title: Build a Chatbot With Dialogflow
 lastmod: 2019-08-12T09:45:18-07:00
 publishdate: 2019-08-12T09:45:18-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a fullstack conversational experience with Dialogflow and Firebase Cloud Functions. 
 tags: 

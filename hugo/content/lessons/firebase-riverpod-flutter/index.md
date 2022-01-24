@@ -2,7 +2,7 @@
 title: Using Riverpod with Firebase in Flutter
 lastmod: 2021-11-27T13:45:48-07:00
 publishdate: 2021-11-27T13:45:48-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Use Riverpod to manage Firebase auth state and relational realtime data in Firestore
 tags: 

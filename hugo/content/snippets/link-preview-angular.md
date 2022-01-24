@@ -2,7 +2,7 @@
 title: Link Preview Angular
 lastmod: 2019-07-23T10:43:06-07:00
 publishdate: 2019-07-23T10:43:06-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a Link Preview Component with Ionic Angular
 type: lessons

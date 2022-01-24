@@ -2,7 +2,7 @@
 title: In App Purchases in Flutter
 lastmod: 2019-06-25T06:14:51-07:00
 publishdate: 2019-06-25T06:14:51-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Accept In App Purchases and microtransactions in Flutter for digital products on the Apple App Store and Google Play Store.  
 tags: 

@@ -2,7 +2,7 @@
 title: Auto-save Reactive Form with Firestore
 lastmod: 2018-05-28T14:17:17-07:00
 publishdate: 2018-05-28T14:17:17-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build reactive forms that preload and autosave data with Firestore
 tags: 

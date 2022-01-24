@@ -2,7 +2,7 @@
 title: Setup Google Maps With Svelte 3
 lastmod: 2019-08-22T13:31:18-07:00
 publishdate: 2019-08-22T13:31:18-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to get started with Google Maps in Svelte 3
 tags: 

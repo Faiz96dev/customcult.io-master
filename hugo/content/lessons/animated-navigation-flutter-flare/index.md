@@ -2,7 +2,7 @@
 title: Flutter Flare 2D Animation Basics
 lastmod: 2019-04-02T11:00:35-07:00
 publishdate: 2019-04-02T11:00:35-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build an animated navigation menu in Flutter with Flare2D
 tags: 

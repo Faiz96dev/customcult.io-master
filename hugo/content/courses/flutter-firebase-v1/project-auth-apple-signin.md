@@ -116,4 +116,4 @@ FutureBuilder(
 
 Have a web app too? You might also be interested in watching [Apple Sign In for Firebase web apps](https://fireship.io/lessons/apple-signin-with-firebase-tutorial/) tutorial as well.
 
-[Code with Andrea](https://codewithandrea.com/videos/2020-01-20-apple-sign-in-flutter-firebase/) also provides an excellent tutorial for Apple Sign In.  
+[Code with Andrea](https://codewithandrea.com/lessons/2020-01-20-apple-sign-in-flutter-firebase/) also provides an excellent tutorial for Apple Sign In.  

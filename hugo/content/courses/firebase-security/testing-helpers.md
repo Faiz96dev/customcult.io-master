@@ -17,7 +17,7 @@ const { loadFirestoreRules, initializeTestApp, clearFirestoreData, initializeAdm
 const { readFileSync } = require('fs');
 
 module.exports.setup = async (auth, data) => {
-  const projectId = `fireship-dev-17429`;
+  const projectId = `customcult-50950`;
   const app = initializeTestApp({
     projectId,
     auth

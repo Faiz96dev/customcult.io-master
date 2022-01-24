@@ -2,7 +2,7 @@
 title: Check for Signed-in User in AngularFire
 lastmod: 2018-03-31T18:47:13-07:00
 publishdate: 2018-03-31T18:47:13-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Check if Current User is Signed-In or for data existence in AngularFire
 tags: 

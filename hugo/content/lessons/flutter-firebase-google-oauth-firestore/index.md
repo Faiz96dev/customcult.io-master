@@ -2,7 +2,7 @@
 title: Flutter Firebase Google SignIn + Firestore
 lastmod: 2019-01-14T07:43:54-07:00
 publishdate: 2019-01-14T07:43:54-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn how to Setup GoogleSign and Firestore with Flutter from Scratch
 tags: 

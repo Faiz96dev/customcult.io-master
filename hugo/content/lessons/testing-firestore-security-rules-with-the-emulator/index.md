@@ -2,7 +2,7 @@
 title: "Testing Firestore Security Rules With the Emulator"
 lastmod: 2018-10-31T18:20:34-07:00
 publishdate: 2018-10-31T18:20:34-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Use the Firestore emulator to unit test security rules. 
 tags: 

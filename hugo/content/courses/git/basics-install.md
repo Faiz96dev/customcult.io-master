@@ -14,7 +14,7 @@ Check your machine's current git version:
 
 {{< file "terminal" "command line" >}}
 ```bash
-git config --global user.name "Jeff Delaney"
+git config --global user.name "Custom Cult"
 git config --global user.email "hello@fireship.io"
 ```
 

@@ -2,7 +2,7 @@
 title: Push Notifications on the Web
 lastmod: 2020-02-11T05:14:39-07:00
 publishdate: 2017-08-01T05:14:39-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Send web push notifications to multiple devices with Firebase Cloud Messaging and Firestore
 tags: 

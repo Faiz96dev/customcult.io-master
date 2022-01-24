@@ -2,7 +2,7 @@
 title: The Ultimate Beginners Guide to Firebase
 lastmod: 2018-02-25T16:13:49-07:00
 publishdate: 2018-02-25T16:13:49-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Go back to the basics with Firebase using JavaScript
 tags: 

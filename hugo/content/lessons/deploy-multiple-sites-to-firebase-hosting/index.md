@@ -2,7 +2,7 @@
 title: Deploy Multiple Sites to Firebase Hosting
 lastmod: 2018-08-29T17:35:41-07:00
 publishdate: 2018-08-29T17:35:41-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn how manage multiple sites from a single Firebase project
 tags: 

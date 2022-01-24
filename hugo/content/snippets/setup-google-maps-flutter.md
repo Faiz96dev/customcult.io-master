@@ -2,7 +2,7 @@
 title: Flutter Google Maps Setup
 lastmod: 2019-01-12T10:13:59-07:00
 publishdate: 2019-01-12T10:13:59-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Setup a Flutter app with Google Maps and GPS Location Tracking
 tags: 

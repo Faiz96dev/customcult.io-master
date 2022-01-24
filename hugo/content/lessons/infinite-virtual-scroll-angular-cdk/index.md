@@ -2,7 +2,7 @@
 title: Infinite Virtual Scroll with the Angular CDK
 lastmod: 2018-10-21T18:16:07-07:00
 publishdate: 2018-10-21T18:16:07-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build an Infinite Virtual Scroll with the Angular CDK
 tags: 

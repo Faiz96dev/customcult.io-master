@@ -2,7 +2,7 @@
 title: Flutter Widget Positioning - A Guide for the CSS Developer
 lastmod: 2019-01-29T07:10:30-07:00
 publishdate: 2019-01-29T07:10:30-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn how to position, align, and build layouts with Flutter widgets, including comparisons to CSS and flexbox.
 tags: 

@@ -21,7 +21,7 @@ I recommend following along and writing your own code from scratch, but the sour
 
 We are only scratching the surface, check out these learning resources: 
 
-- AngularFirebase Cloud Functions Lessons 
+- AngularFirebase Cloud Functions lessons 
 - Official Firebase Functions Docs and Video Series
 
 

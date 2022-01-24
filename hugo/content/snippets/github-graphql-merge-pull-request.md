@@ -2,7 +2,7 @@
 title: Merge a Pull Request with the GitHub GraphQL API
 lastmod: 2020-03-21T12:36:06-07:00
 publishdate: 2020-03-21T12:36:06-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to retrieve and merge Pull Requests programmatically with the GitHub GraphQL API. 
 tags: 

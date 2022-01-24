@@ -2,7 +2,7 @@
 title: Three.js Basics
 lastmod: 2021-05-21T08:45:49-07:00
 publishdate: 2021-05-21T08:45:49-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build an animated 3D portfolio website with Three.js
 tags: 

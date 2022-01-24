@@ -2,7 +2,7 @@
 title: Flutter Firebase App Setup for Power Users
 lastmod: 2020-07-31T10:13:59-07:00
 publishdate: 2020-07-31T10:13:59-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to setup a new Flutter project with Firebase, Firestore, Crashlytics, Analytics, and more. 
 tags: 

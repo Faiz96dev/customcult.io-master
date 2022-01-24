@@ -2,7 +2,7 @@
 title: Invite-Only Firebase Phone Auth
 lastmod: 2021-02-24T15:42:55-07:00
 publishdate: 2021-02-24T15:42:55-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Harness the power of FOMO by building an invite-only phone authentication system with Firebase & React. 
 tags: 

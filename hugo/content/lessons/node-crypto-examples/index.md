@@ -2,7 +2,7 @@
 title: Cryptography Concepts for Node.js Developers
 lastmod: 2021-10-28T13:29:12-07:00
 publishdate: 2021-10-28T13:29:12-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn 7 essential cryptography concepts in and implement them with Node.js crypto.
 tags: 

@@ -2,7 +2,7 @@
 title: Flutter Realtime Geolocation Firebase
 lastmod: 2019-02-13T06:22:01-07:00
 publishdate: 2019-02-13T06:22:01-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a basic realtime geolocation app that can query data within a radius using Flutter, Firestore, and Google Maps.  
 tags: 

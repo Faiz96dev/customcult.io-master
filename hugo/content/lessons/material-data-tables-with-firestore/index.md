@@ -2,7 +2,7 @@
 title: Material Data Tables With Firestore
 lastmod: 2017-12-12T05:49:37-07:00
 publishdate: 2017-12-12T05:49:37-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a realtime Angular Material data table with Firestore and edit data with a dialog modal.
 tags: 

@@ -2,7 +2,7 @@
 title: Cloud Functions Data Aggregation
 lastmod: 2017-10-29T11:27:02-07:00
 publishdate: 2017-10-29T11:27:02-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: A complete demo of data aggregation with Firestore Cloud Functions
 tags: 

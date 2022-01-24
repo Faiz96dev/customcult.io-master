@@ -2,7 +2,7 @@
 title: Fulltext Search on Firebase with Meilisearch
 lastmod: 2020-08-28T08:14:16-07:00
 publishdate: 2020-08-28T08:14:16-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build and deploy a fulltext search engine for your Firestore data with Meilisearch. 
 tags: 

@@ -2,7 +2,7 @@
 title:  Responsive Animated Navbar with CSS
 lastmod: 2020-02-29T15:04:10-07:00
 publishdate: 2020-02-29T15:04:10-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a Responsive Animated Icon Navbar with plain CSS
 tags: 

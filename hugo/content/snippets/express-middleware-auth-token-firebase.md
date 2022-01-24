@@ -2,7 +2,7 @@
 title: Authenticate a Firebase User on the Server
 lastmod: 2020-05-22T05:56:37-07:00
 publishdate: 2020-05-22T05:56:37-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to setup express middleware for serverside auth in Firebase
 tags: 

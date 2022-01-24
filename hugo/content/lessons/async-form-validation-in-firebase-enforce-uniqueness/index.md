@@ -2,7 +2,7 @@
 title: Angular Reactive Forms Async Validation
 lastmod: 2019-07-12T15:40:26-07:00
 publishdate: 2018-02-10T15:40:26-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a custom validator for Angular Reactive Forms that checks a username asynchronously in Firestore
 tags: 

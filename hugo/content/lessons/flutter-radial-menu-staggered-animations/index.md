@@ -2,7 +2,7 @@
 title: Flutter Animated Radial Menu
 lastmod: 2019-02-24T09:14:20-07:00
 publishdate: 2019-02-24T09:14:20-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Compose staggered transform animations in Flutter by building a radial menu from scratch.  
 tags: 

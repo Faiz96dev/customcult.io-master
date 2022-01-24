@@ -2,7 +2,7 @@
 title: Custom Usernames in Firebase
 lastmod: 2021-01-23T11:51:52-07:00
 publishdate: 2021-01-23T11:51:52-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to implement and validate custom usernames for Firebase users with Cloud Firestore
 tags: 

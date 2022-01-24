@@ -2,7 +2,7 @@
 title: Regex Cheat Sheet
 lastmod: 2020-05-18T16:17:00-07:00
 publishdate: 2020-05-18T16:17:00-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: A collection of useful regular expression techniques and examples for the JavaScript developer. 
 tags: 

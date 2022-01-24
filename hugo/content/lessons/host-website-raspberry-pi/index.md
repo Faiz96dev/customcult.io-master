@@ -2,7 +2,7 @@
 title: Host a Website on Raspberry Pi
 lastmod: 2021-01-15T14:37:09-07:00
 publishdate: 2021-01-15T14:37:09-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to host a website or serve a webapp on the Raspberry Pi 4
 tags: 

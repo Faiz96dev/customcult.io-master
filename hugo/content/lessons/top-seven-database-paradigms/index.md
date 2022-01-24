@@ -2,7 +2,7 @@
 title: Seven Database Paradigms
 lastmod: 2020-09-01T16:09:39-07:00
 publishdate: 2020-09-01T16:09:39-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Visual explanation of the top 7 database paradigms and what they do best. 
 tags: 

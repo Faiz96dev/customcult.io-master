@@ -2,7 +2,7 @@
 title: Advanced Data Modeling with Firestore by Example
 lastmod: 2018-02-05T15:31:37-07:00
 publishdate: 2018-02-05T15:31:37-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Deal with advanced data modeling scenarios in NoSQL
 tags: 

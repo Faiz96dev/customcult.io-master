@@ -2,7 +2,7 @@
 title: Angular Router Animations Guide
 lastmod: 2019-02-10T07:42:41-07:00
 publishdate: 2019-02-10T07:42:41-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build beautiful router animations in Angular to transition between page changes.
 tags: 

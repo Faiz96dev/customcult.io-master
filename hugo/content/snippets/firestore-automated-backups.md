@@ -2,7 +2,7 @@
 title: Automatic Backups for Firestore via Github Actions
 lastmod: 2020-03-12T17:20:51-07:00
 publishdate: 2020-03-12T17:20:51-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to implement a daily background job that exports your Firestore data to a storage bucket.
 tags: 

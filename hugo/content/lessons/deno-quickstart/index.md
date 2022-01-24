@@ -2,7 +2,7 @@
 title: Hello Deno
 lastmod: 2020-05-04T14:43:11-07:00
 publishdate: 2020-05-04T14:43:11-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: true
 description: Get started with Deno 1.0. A new JavaScript runtime. 
 tags: 

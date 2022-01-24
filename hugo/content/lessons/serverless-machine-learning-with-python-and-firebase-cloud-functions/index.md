@@ -2,7 +2,7 @@
 title: ML Engine Tutorial with Python
 lastmod: 2018-10-01T18:03:42-07:00
 publishdate: 2018-10-01T18:03:42-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build an machine learning API from scratch with Datalab, ML Engine, and Firebase.
 tags: 

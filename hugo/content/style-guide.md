@@ -2,7 +2,7 @@
 title: "Style Guide"
 lastmod: 2019-01-06T06:14:45-07:00
 publishdate: 2019-01-06T06:14:45-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Style Guide for Contributing Content to Fireship.io
 ---

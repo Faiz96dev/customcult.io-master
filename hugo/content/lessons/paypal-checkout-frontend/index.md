@@ -2,7 +2,7 @@
 title: PayPal Checkout
 lastmod: 2019-06-23T06:44:00-07:00
 publishdate: 2019-06-23T06:44:00-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Accept PayPal Checkout payments with Angular, React, or Vue
 tags: 

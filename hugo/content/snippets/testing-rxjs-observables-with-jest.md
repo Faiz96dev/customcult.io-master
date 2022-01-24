@@ -2,7 +2,7 @@
 title: Testing RxJS Observables With Jest
 lastmod: 2018-08-18T18:39:19-07:00
 publishdate: 2018-08-18T18:39:19-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn how to write unit testing RxJS Observables using Jest
 tags: 

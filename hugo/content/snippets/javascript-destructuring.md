@@ -4,7 +4,7 @@ publishdate: 2019-01-07T09:35:09-07:00
 lastmod: 2019-01-07T09:35:09-07:00
 draft: false
 type: lessons
-author: Jeff Delaney
+author: Custom Cult
 description: Use destructuring assignment in JavaScript to make your code concise and readable
 tags: 
     - javascript

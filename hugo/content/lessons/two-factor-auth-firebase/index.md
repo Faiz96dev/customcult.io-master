@@ -2,7 +2,7 @@
 title: Multifactor Auth with Firebase (2FA)
 lastmod: 2020-04-04T13:49:27-07:00
 publishdate: 2020-04-04T13:49:27-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to perform multifactor authentication (2FA) with SMS text verification using Firebase
 tags: 

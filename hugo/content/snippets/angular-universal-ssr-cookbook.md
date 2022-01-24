@@ -2,7 +2,7 @@
 title: Angular Universal SSR Cookbook
 lastmod: 2019-01-24T07:14:41-07:00
 publishdate: 2019-01-24T07:14:41-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Common recipes and solutions for serverside rendering (SSR) with Angular Universal 
 tags: 

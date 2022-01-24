@@ -2,7 +2,7 @@
 title: Ionic Intro Slider for New Users
 lastmod: 2018-08-19T15:16:55-07:00
 publishdate: 2018-08-19T15:16:55-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a slider tutorial in Ionic 4 to educate new users how to use your app.
 

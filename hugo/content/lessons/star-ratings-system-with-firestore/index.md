@@ -2,7 +2,7 @@
 title: "Star Ratings System With Firestore"
 lastmod: 2017-10-17T11:17:30-07:00
 publishdate: 2017-10-17T11:17:30-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a five-star rating system from scratch with Firestore
 tags: 

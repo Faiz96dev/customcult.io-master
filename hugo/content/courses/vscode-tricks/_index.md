@@ -34,5 +34,5 @@ This course is for beginners and experienced developers alike. It is fast-paced 
 
 ## How do I enroll?
 
-The first 10 videos are *free*, so just give it try. When you reach a paid module, you will be asked to pay for a single course or upgrade to PRO. 
+The first 10 lessons are *free*, so just give it try. When you reach a paid module, you will be asked to pay for a single course or upgrade to PRO. 
 

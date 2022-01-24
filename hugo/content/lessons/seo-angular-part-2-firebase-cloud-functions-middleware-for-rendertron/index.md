@@ -2,7 +2,7 @@
 title: Middleware for Rendertron
 lastmod: 2017-11-08T11:57:04-07:00
 publishdate: 2017-11-08T11:57:04-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Configure Firebase Cloud Functions to serve as the middleware for Rendertron
 tags: 

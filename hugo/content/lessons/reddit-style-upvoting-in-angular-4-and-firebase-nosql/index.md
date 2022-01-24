@@ -2,7 +2,7 @@
 title: Reddit Style Upvoting in Angular 4 and Firebase
 lastmod: 2017-06-23T15:09:54-07:00
 publishdate: 2017-06-23T15:09:54-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Create a Reddit-Style Voting System from Scratch with Angular and Firebase
 tags: 

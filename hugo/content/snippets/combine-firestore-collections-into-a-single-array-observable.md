@@ -2,7 +2,7 @@
 title: Combine Firestore Collections into a Single Array Observable
 lastmod: 2018-02-20T18:50:43-07:00
 publishdate: 2018-02-20T18:50:43-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Combine Firestore collections via AngularFire, while maintaining realtime listeners 
 tags: 

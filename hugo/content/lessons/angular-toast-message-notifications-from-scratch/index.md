@@ -2,7 +2,7 @@
 title: Angular Toast Message Notifications From Scratch
 lastmod: 2017-07-03T15:50:19-07:00
 publishdate: 2017-07-03T15:50:19-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Send toast notifications to users with Angular and Firebase.
 tags: 

@@ -2,7 +2,7 @@
 title: What is Cloud Computing in 2020?
 lastmod: 2019-12-10T11:59:07-07:00
 publishdate: 2019-12-10T11:59:07-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Take a bird's eye view of Cloud Computing in 2020 and learn essential concepts for software developers.
 tags: 

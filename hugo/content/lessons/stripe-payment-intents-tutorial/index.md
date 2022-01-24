@@ -2,7 +2,7 @@
 title: Stripe Payment Intents Tutorial
 lastmod: 2019-10-22T18:05:34-07:00
 publishdate: 2019-10-22T18:05:34-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn how to work with the Stripe Payment Intents API and validate cards with 3D Secure. 
 tags: 

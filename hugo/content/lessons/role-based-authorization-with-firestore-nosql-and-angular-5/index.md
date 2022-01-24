@@ -2,7 +2,7 @@
 title: "Role Based Authorization With Firestore"
 lastmod: 2017-12-07T05:39:29-07:00
 publishdate: 2017-12-07T05:39:29-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Implement role-based authorization with Firestore
 tags: 

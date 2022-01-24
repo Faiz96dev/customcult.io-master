@@ -2,7 +2,7 @@
 title: Top 7 Security Concepts for Web Developers
 lastmod: 2020-02-13T09:37:39-07:00
 publishdate: 2020-02-13T09:37:39-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Security concepts, risks, and exploits that every web developer should know about. 
 tags: 

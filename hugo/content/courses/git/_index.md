@@ -39,4 +39,4 @@ This course is beginner level 🟢 and will walk you through the fundamentals of
 
 ### How do I enroll?
 
-The first few videos are *free*, so just jump in. When you reach a paid module, you will be asked to pay for a single course or upgrade to PRO. 
+The first few lessons are *free*, so just jump in. When you reach a paid module, you will be asked to pay for a single course or upgrade to PRO. 

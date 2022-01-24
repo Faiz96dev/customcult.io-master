@@ -4,7 +4,7 @@ publishdate: 2019-03-19T09:35:09-07:00
 lastmod: 2019-01-02T09:35:09-07:00
 draft: false
 type: lessons
-author: Jeff Delaney
+author: Custom Cult
 description: Build a Skeleton Text placeholder widget in Flutter with a looping shimmer animation. 
 tags:
     - flutter

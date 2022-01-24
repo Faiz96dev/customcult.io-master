@@ -2,7 +2,7 @@
 title: Setup Nest on Cloud Functions
 lastmod: 2019-08-12T10:26:16-07:00
 publishdate: 2019-08-12T10:26:16-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Steps to run NestJS on Firebase Cloud Functions  
 

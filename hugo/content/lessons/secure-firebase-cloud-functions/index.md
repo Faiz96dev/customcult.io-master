@@ -2,7 +2,7 @@
 title: Secure Firebase Cloud Functions for Authenticated Users
 lastmod: 2017-09-27T07:08:09-07:00
 publishdate: 2017-09-27T07:08:09-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Run HTTP and Database Cloud Functions when a user is logged-in
 tags: 

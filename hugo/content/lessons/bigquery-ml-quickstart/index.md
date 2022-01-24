@@ -2,7 +2,7 @@
 title: BigQuery ML Quickstart
 lastmod: 2019-03-13T18:23:18-07:00
 publishdate: 2019-03-13T18:23:18-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Use BigQuery to process massive amounts of data for analysis and machine learning. 
 tags: 

@@ -70,7 +70,7 @@ export const proBotSlash = functions.pubsub.topic(SLASH_PRO).onPublish(async (me
         if (!data) {
           text = `Unable to link ${email} to a Fireship account. Either change your slack email to match Fireship OR signup on https://fireship.io`;
         } else if (!data.is_pro) {
-          text = `Account located, but your PRO status is not active. Verify your status here https://fireship.io/dashboard. If you think there's problem direct message Jeff Delaney`;
+          text = `Account located, but your PRO status is not active. Verify your status here https://fireship.io/dashboard. If you think there's problem direct message Custom Cult`;
         } else {
           text = `🦄 PRO status confirmed!\n\n- Use */t-shirt* to register for a lifetime T-shirt\n- Use */sticker* to get a free sticker\n- Use */meetup* to join the weekly video meetup\n- Use */beer-me* for unlimited free beer.`;
           if (!data.pro_slack) {
@@ -109,7 +109,7 @@ export const proBotSlash = functions.pubsub.topic(SLASH_PRO).onPublish(async (me
 
       case '/t-shirt':
         if (data && data.is_pro && data.pro_status === 'lifetime') {
-          text = '🦄 Lifetime status confirmed! Direct message Jeff Delaney with your size & mailing address';
+          text = '🦄 Lifetime status confirmed! Direct message Custom Cult with your size & mailing address';
         } else {
           text = 'You must be a lifetime member to register for a T-shirt.';
         }

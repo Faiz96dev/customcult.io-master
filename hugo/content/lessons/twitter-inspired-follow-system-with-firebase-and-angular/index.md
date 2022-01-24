@@ -2,7 +2,7 @@
 title: Twitter Inspired Follow System with Firebase
 lastmod: 2017-06-27T15:36:01-07:00
 publishdate: 2017-06-27T15:36:01-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Create a twitter-inspired follow unfollow system with Angular and Firebase
 tags: 

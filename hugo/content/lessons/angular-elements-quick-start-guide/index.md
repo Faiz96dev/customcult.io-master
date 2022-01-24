@@ -2,7 +2,7 @@
 title: Angular Elements Guide
 lastmod: 2018-04-29T13:43:49-07:00
 publishdate: 2018-04-29T13:43:49-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build web components with Angular Elements
 tags: 

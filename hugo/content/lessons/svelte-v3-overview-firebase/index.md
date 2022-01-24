@@ -2,7 +2,7 @@
 title: Svelte Realtime Todo List with Firebase 
 lastmod: 2019-04-24T07:01:58-07:00
 publishdate: 2019-04-24T07:01:58-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a realtime ToDo list with Svelte 3 and Firebase (RxFire)
 tags: 

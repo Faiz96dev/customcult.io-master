@@ -2,7 +2,7 @@
 title: React Native Firebase Chat Demo
 lastmod: 2021-09-30T13:18:57-07:00
 publishdate: 2021-09-30T13:18:57-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a mobile chat app with React Native, Firebase and Firestore
 tags: 

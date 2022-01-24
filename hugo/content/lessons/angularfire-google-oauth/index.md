@@ -2,7 +2,7 @@
 title: Google OAuth with @angular/fire
 lastmod: 2018-12-29T06:51:33-07:00
 publishdate: 2018-12-29T06:51:33-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a Firebase Google signin user authentication flow with @angular/fire that saves custom user data to the Firestore. 
 tags: 

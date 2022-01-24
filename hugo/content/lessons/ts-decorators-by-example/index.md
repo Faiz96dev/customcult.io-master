@@ -2,7 +2,7 @@
 title: TypeScript Decorators by Example
 lastmod: 2019-02-03T09:39:23-07:00
 publishdate: 2019-02-03T09:39:23-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn how to use TypeScript decorators to create elegant abstractions with JavaScript code. 
 tags: 

@@ -2,7 +2,7 @@
 title: WebRTC Video Chat on Firebase
 lastmod: 2021-03-02T15:10:46-07:00
 publishdate: 2021-03-02T15:10:46-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a Zoom-like video chat app using WebRTC and Firebase
 tags: 

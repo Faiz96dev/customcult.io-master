@@ -2,7 +2,7 @@
 title: How to Upgrade Angular Packages
 lastmod: 2019-03-13T08:01:59-07:00
 publishdate: 2019-03-13T08:01:59-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to upgrade to the latest packages in Angular
 tags: 

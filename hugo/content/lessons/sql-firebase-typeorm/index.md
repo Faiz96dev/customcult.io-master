@@ -2,7 +2,7 @@
 title: MySQL on Cloud Functions
 lastmod: 2019-08-06T12:31:06-07:00
 publishdate: 2019-08-06T12:31:06-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn how to use a relational MySQL database with Firebase Cloud Functions and TypeORM
 tags: 

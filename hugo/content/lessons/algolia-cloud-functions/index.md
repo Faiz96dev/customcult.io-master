@@ -2,7 +2,7 @@
 title: Algolia Fulltext Search Cloud Functions
 lastmod: 2019-08-25T10:43:13-07:00
 publishdate: 2019-08-25T10:43:13-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a pipeline for full-text search indexing with Firestore Cloud Functions
 tags: 

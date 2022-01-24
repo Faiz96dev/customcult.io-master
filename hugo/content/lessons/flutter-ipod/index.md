@@ -2,7 +2,7 @@
 title: Build the Classic iPod UI in Flutter
 publishdate: 2019-12-01T09:12:43-07:00
 lastmod: 2019-12-02T09:12:43-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a throwback iPod UI with a click wheel scroller using Flutter.
 tags: 

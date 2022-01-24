@@ -2,7 +2,7 @@
 title: "Angular Animations Examples"
 lastmod: 2017-07-24T04:50:44-07:00
 publishdate: 2017-07-24T04:50:44-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Five basic animation techniques and examples based on Angular
 tags: 

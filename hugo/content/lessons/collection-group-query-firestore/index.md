@@ -2,7 +2,7 @@
 title: Collection Group Query with Firestore
 lastmod: 2019-05-20T08:43:13-07:00
 publishdate: 2019-05-20T08:43:13-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Query across multiple Firestore subcollections for hierarchical data structures, like threaded comments. 
 tags: 

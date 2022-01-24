@@ -2,7 +2,7 @@
 title: Ionic CSS Variables Dynamic Theme Generator
 lastmod: 2018-08-14T15:10:28-07:00
 publishdate: 2018-08-14T15:10:28-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a dynamic theme generator and animation controller in Ionic 4 using CSS4 variables
 tags: 

@@ -2,7 +2,7 @@
 title: Firebase Analytics for the Web
 lastmod: 2019-10-03T13:08:58-07:00
 publishdate: 2019-10-03T13:08:58-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Customize your app's UI/UX with Firebase Analytics and Remote Config in a Progressive Web App
 tags: 

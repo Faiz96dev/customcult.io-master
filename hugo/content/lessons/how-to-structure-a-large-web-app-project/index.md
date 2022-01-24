@@ -2,7 +2,7 @@
 title: How to Share Code between JavaScript Apps
 lastmod: 2018-09-04T17:48:24-07:00
 publishdate: 2018-09-04T17:48:24-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Share code between frontend/backend apps in JavaScript with NPM packages. 
 tags: 

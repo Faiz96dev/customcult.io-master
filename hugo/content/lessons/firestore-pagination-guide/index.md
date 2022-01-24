@@ -2,7 +2,7 @@
 title: Firestore Pagination Guide
 lastmod: 2019-11-26T09:17:06-07:00
 publishdate: 2019-11-26T09:17:06-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Pagination queries with Firestore that move forward and backward.
 tags: 

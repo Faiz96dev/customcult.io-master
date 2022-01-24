@@ -2,7 +2,7 @@
 title: Read a Single Firestore Document
 lastmod: 2019-12-04T19:57:21-07:00
 publishdate: 2019-12-04T19:57:21-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Strategies for querying a single Firestore document. 
 tags: 

@@ -2,7 +2,7 @@
 title: Throttle and Debounce with Dart
 lastmod: 2019-11-28T19:10:14-07:00
 publishdate: 2019-11-28T19:10:14-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: true
 description: How to Throttle and Debounce Events in Dart and Flutter
 tags: 

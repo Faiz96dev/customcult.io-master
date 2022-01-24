@@ -2,7 +2,7 @@
 title: Animated Notifications with Framer Motion
 lastmod: 2021-09-12T16:17:44-07:00
 publishdate: 2021-09-12T16:17:44-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: An advanced tutorial using Framer Motion to create animated notifications.
 tags: 

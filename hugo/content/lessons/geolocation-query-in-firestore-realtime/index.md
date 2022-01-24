@@ -2,7 +2,7 @@
 title: Realtime GeoQueries with Firestore
 lastmod: 2019-12-11T05:30:10-07:00
 publishdate: 2018-07-10T05:59:29-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Perform geospatial queries in Firestore based on a radius and visualize realtime updates with Angular Google Maps
 tags: 

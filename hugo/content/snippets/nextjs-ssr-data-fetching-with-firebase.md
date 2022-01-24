@@ -2,7 +2,7 @@
 title: Hydrate Next.js Props to Realtime Firestore Data
 lastmod: 2021-01-02T08:58:11-07:00
 publishdate: 2021-01-02T08:58:11-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Fetch and transitioning server-rendered data with Next.js to realtime Firestore data. 
 tags: 

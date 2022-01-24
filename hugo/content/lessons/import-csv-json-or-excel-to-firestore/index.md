@@ -2,7 +2,7 @@
 title: CSV to Firestore
 lastmod: 2018-03-25T17:34:22-07:00
 publishdate: 2018-03-25T17:34:22-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a Node CLI utility that imports data from a CSV file to Firestore 
 tags: 

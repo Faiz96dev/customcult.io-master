@@ -2,7 +2,7 @@
 title: Slack API Signing Signature Verification
 lastmod: 2019-12-03T20:32:19-07:00
 publishdate: 2019-12-03T20:32:19-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Verify signed requests from the Slack API with Node.js
 tags: 

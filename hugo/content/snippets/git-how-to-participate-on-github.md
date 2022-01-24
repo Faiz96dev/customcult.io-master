@@ -2,7 +2,7 @@
 title: How to Participate on Github
 lastmod: 2019-01-17T05:42:54-07:00
 publishdate: 2019-01-17T05:42:54-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: A step-by-step guide to submitting your first Pull Request on Github. Practical tips and advice for git version control. 
 tags: 

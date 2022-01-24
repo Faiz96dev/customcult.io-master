@@ -2,7 +2,7 @@
 title: Access Google APIs for Users with OAuth 2.0
 lastmod: 2020-05-23T00:33:26-07:00
 publishdate: 2020-05-23T00:33:26-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to use Google APIs on behalf of users with Node.js Cloud Functions and Firebase
 tags: 

@@ -2,7 +2,7 @@
 title: Use the Firestore Emulator with Flutter
 lastmod: 2020-08-10T15:05:09-07:00
 publishdate: 2020-08-10T15:05:09-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to use the Firestore Emulator in a Flutter App
 tags: 

@@ -2,7 +2,7 @@
 title: How to Use Firestore Increment
 lastmod: 2019-04-08T07:41:02-07:00
 publishdate: 2019-04-08T07:41:02-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Use the special Firestore Increment field value to increase or decrease numeric values atomically in the database. 
 tags: 

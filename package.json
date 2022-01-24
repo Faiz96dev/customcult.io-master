@@ -1,10 +1,10 @@
 {
-  "name": "fireship",
+  "name": "customcult",
   "version": "0.0.1",
-  "description": "Awesome content for developers",
+  "description": "Awesome content for Motorcyclist",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/fireship-io/fireship.io"
+    "url": "https://github.com/Faiz96dev/customcult.io-master"
   },
   "scripts": {
     "test": "cypress open",

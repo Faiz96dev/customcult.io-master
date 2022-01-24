@@ -2,7 +2,7 @@
 title: Hot Reload Node Typescript Server
 lastmod: 2020-05-22T05:36:37-07:00
 publishdate: 2020-05-22T05:36:37-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Setup a Node.js server with TypeScript that automatically restarts when the source code changes
 tags: 

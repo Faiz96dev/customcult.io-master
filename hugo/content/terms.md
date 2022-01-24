@@ -8,7 +8,7 @@ By accessing this website, you are agreeing to be bound by these website Terms a
 
 ### Content Copyright Policy
 
-The site design, logo, video content subject to copyright © 2019-present | Fireship LLC
+The site design, logo, video content subject to copyright © 2019-present | Custom Cult LLC
 
 User contributions licensed under cc by-sa 3.0 with attribution required.
 

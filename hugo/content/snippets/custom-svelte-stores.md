@@ -2,7 +2,7 @@
 title:  Custom Svelte Store Examples
 lastmod: 2019-11-15T07:41:02-07:00
 publishdate: 2019-11-15T07:41:02-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: A quick guide to Svelte custom stores and their use-cases. 
 tags: 

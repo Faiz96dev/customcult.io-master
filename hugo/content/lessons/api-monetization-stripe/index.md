@@ -2,7 +2,7 @@
 title: API Monetization with Stripe Metered Billing
 lastmod: 2021-10-24T10:12:58-07:00
 publishdate: 2021-10-24T10:12:58-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build an API with Express.js and Monetize it with Stripe Metered Billing
 tags: 

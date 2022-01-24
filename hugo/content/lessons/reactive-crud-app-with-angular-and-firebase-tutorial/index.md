@@ -2,7 +2,7 @@
 title: "Reactive Crud App With Angular and Firebase Tutorial"
 lastmod: 2017-04-10T13:06:04-07:00
 publishdate: 2017-04-10T13:06:04-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a CRUD app that manages a basic list of items - create, read, update, delete.
 tags: 

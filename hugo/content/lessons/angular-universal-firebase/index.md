@@ -2,7 +2,7 @@
 title: Angular Universal SSR with Firebase
 lastmod: 2019-01-22T08:27:40-07:00
 publishdate: 2019-01-22T08:27:40-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: A comprehensive guide to server-side rendering with Angular Universal and Firebase
 tags:

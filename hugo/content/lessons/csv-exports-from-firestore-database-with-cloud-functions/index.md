@@ -2,7 +2,7 @@
 title: CSV Exports from Firestore
 lastmod: 2017-11-14T12:13:53-07:00
 publishdate: 2017-11-14T12:13:53-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Convert Firestore data into a CSV Excel Spreadsheet with Firebase Cloud Functions.
 tags: 

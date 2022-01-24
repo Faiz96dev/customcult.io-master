@@ -1,5 +1,5 @@
 ---
-title: Jeff Delaney
+title: Custom Cult
 date: 2019-02-27T09:32:30-07:00
 draft: false
 featured_img: /img/contributors/jeff-delaney.png
@@ -13,4 +13,4 @@ links:
     portfolio: https://jeffdelaney.me
 ---
 
-Jeff Delaney is a Google Developer Expert for Firebase and the creator of fireship.io. When not writing code he is out seeking adventure with his wife, boys, and pug.
+Custom Cult is a Google Developer Expert for Firebase and the creator of fireship.io. When not writing code he is out seeking adventure with his wife, boys, and pug.

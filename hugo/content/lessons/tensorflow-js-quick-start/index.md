@@ -2,7 +2,7 @@
 title: TensorFlow.js Quick Start Tutorial
 lastmod: 2018-03-31T13:25:17-07:00
 publishdate: 2018-03-31T13:25:17-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Get started with TensorFlow.js by building machine learning models in a JavaScript app
 tags: 

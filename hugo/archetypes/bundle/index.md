@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 lastmod: {{ .Date }}
 publishdate: {{ .Date }}
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: This post is about...
 tags: 

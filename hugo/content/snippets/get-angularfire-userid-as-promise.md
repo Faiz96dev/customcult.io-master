@@ -2,7 +2,7 @@
 title: Return an @angular/fire User as a Promise
 lastmod: 2018-12-29T10:40:01-07:00
 publishdate: 2018-12-29T10:40:01-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: How to return an AngularFire user as a promise
 tags: 

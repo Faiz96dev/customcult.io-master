@@ -2,7 +2,7 @@
 title: Custom Rxjs Operators by Example
 lastmod: 2018-08-26T17:28:28-07:00
 publishdate: 2018-08-26T17:28:28-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Examples of custom RxJS Pipeable Operators
 tags: 

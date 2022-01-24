@@ -23,7 +23,7 @@ The following beginner-level tutorial teaches you how to build a Tic-Tac-Toe gam
 {{< figure src="/courses/angular/img/tic-tac-toe-demo.png" caption="Example of the final tic-tac-toe PWA deployed in this section" >}}
 
 
-## Recommended Lessons
+## Recommended lessons
 
 You may also find the following lessons useful for mastering the basics of Angular. 
 

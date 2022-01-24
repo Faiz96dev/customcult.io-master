@@ -2,7 +2,7 @@
 title: Electron Screen Capture Tutorial
 lastmod: 2020-03-04T06:56:47-07:00
 publishdate: 2020-03-04T06:56:47-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build an Electron App that can capture and record video files from your desktop. 
 tags: 
@@ -75,7 +75,7 @@ The HTML contains a `<video>` element to preview the output from a screen and pr
 
     <hr />
 
-    <button id="videoSelectBtn" class="button is-text">
+    <button id="lessonselectBtn" class="button is-text">
       Choose a Video Source
     </button>
   </body>
@@ -107,14 +107,14 @@ How do we access the available windows or screens to record? Electron has a buil
 
 {{< file "js" "render.js" >}}
 ```javascript
-const videoSelectBtn = document.getElementById('videoSelectBtn');
-videoSelectBtn.onclick = getVideoSources;
+const lessonselectBtn = document.getElementById('lessonselectBtn');
+lessonselectBtn.onclick = getlessonsources;
 
 const { desktopCapturer, remote } = require('electron');
 const { Menu } = remote;
 
 // Get the available video sources
-async function getVideoSources() {
+async function getlessonsources() {
   const inputSources = await desktopCapturer.getSources({
     types: ['window', 'screen']
   });
@@ -131,7 +131,7 @@ At this point we have a list of screens, but need a UI element for the user to s
 const { desktopCapturer, remote } = require('electron');
 const { Menu } = remote;
 
-async function getVideoSources() {
+async function getlessonsources() {
   const inputSources = await desktopCapturer.getSources({
     types: ['window', 'screen']
   });
@@ -160,10 +160,10 @@ A MediaRecorder instance is created to record the stream as a `webm` video file 
 let mediaRecorder; // MediaRecorder instance to capture footage
 const recordedChunks = [];
 
-// Change the videoSource window to record
+// Change the lessonsource window to record
 async function selectSource(source) {
 
-  videoSelectBtn.innerText = source.name;
+  lessonselectBtn.innerText = source.name;
 
   const constraints = {
     audio: false,

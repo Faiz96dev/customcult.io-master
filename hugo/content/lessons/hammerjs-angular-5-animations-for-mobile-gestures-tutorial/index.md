@@ -2,7 +2,7 @@
 title: Mobile Touch Animation with HammerJS
 lastmod: 2017-12-28T14:17:38-07:00
 publishdate: 2017-12-28T14:17:38-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Animate mobile touch gestures using HammerJS
 tags: 

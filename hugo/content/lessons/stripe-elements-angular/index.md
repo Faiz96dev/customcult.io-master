@@ -2,7 +2,7 @@
 title: Stripe Elements and Checkout with Angular
 lastmod: 2019-03-04T08:48:04-07:00
 publishdate: 2019-03-04T08:48:04-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Create a form that collects and validates credit card details in Angular with Stripe Elements & Checkout.  
 tags: 

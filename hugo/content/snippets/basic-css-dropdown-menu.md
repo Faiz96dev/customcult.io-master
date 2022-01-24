@@ -2,7 +2,7 @@
 title: How to Build a CSS Dropdown Menu 
 lastmod: 2020-03-24T12:03:21-07:00
 publishdate: 2020-03-24T12:03:21-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a clickable dropdown menu with CSS (no JavaScript)
 tags: 

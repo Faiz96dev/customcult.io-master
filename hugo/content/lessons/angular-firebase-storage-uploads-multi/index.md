@@ -2,7 +2,7 @@
 title: Upload Multiple Files to Firebase Storage with Angular
 lastmod: 2019-02-18T13:45:50-07:00
 publishdate: 2019-02-18T13:45:50-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build a dropzone file uploader in Angular that can send multiple files to Firebase storage simultaneously.
 tags: 

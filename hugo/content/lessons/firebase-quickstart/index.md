@@ -2,7 +2,7 @@
 title: Firebase Quickstart
 lastmod: 2020-07-26T08:27:33-07:00
 publishdate: 2020-07-26T08:27:33-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Start here! Learn the fundamentals of Firebase with vanilla JS to prepare you for other frameworks.
 tags: 

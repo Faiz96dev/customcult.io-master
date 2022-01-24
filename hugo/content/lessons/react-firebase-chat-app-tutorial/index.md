@@ -2,7 +2,7 @@
 title: React Firebase Chat App 
 lastmod: 2020-09-25T07:55:33-07:00
 publishdate: 2020-09-25T07:55:33-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Learn the basics of React & Firebase by building a simple group chat app from scratch.
 tags: 

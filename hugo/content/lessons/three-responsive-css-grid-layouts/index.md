@@ -2,7 +2,7 @@
 title: CSS Grid Layout Examples
 lastmod: 2020-03-08T11:04:48-07:00
 publishdate: 2020-03-08T11:04:48-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Build three different responsive CSS grid layouts from scratch
 tags:

@@ -2,7 +2,7 @@
 title: Join Collections in Firestore
 lastmod: 2018-08-23T17:30:50-07:00
 publishdate: 2018-08-23T17:30:50-07:00
-author: Jeff Delaney
+author: Custom Cult
 draft: false
 description: Leverage RxJS to perform SQL-like JOIN queries in Firestore
 tags: 
