@@ -1,15 +1,15 @@
 ---
-title: Top 7 Security Concepts for Web Developers
+title: Trip Around Issyk-Kul Lake and back  On Custom Motorcycles
 lastmod: 2020-02-13T09:37:39-07:00
 publishdate: 2020-02-13T09:37:39-07:00
 author: Custom Cult
 draft: false
-description: Security concepts, risks, and exploits that every web developer should know about. 
+description: Trip Around Issyk-Kul Lake and back  On Custom Motorcycles
 tags: 
-    - javascript
-    - security
+    - trips
+    - nature
 
-youtube: 4YOpILi9Oxs
+youtube: FW-XkC9HtHE
 # github: 
 # disable_toc: true
 # disable_qna: true
